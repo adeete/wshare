@@ -1,4 +1,3 @@
-Changes
 # wshare
 A file sharing command line application built in go.
 
